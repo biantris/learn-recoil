@@ -1,5 +1,5 @@
  <div align="center">
-   <img width="500" src="img/recoil.png" />
+   <img width="100" src="img/recoil.png" />
  </div>
 
 <h1 align="center">
@@ -39,14 +39,9 @@
         - Rehydration (backwards compatible)
 - **Why use Recoil?** When your component tree and state structure don’t match.
     - React Context
-        
-        ![Untitled](Learn%20Recoil%205feef255d1fd453093cc809aee901fed/Untitled.png)
-        
-        ![Untitled](Learn%20Recoil%205feef255d1fd453093cc809aee901fed/Untitled%201.png)
-        
+        [img]
     - Recoil
-        
-        ![Untitled](Learn%20Recoil%205feef255d1fd453093cc809aee901fed/Untitled%202.png)
+        [img]
 </summary>
 </details>
 
