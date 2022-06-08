@@ -38,10 +38,18 @@
         - Persist application state
         - Rehydration (backwards compatible)
 - **Why use Recoil?** When your component tree and state structure don’t match.
-    - React Context
-        [img]
-    - Recoil
-        [img]
+    - **React Context**
+        - Here we have a dropdown that has the number state, which is passed to the `App` component where it contains both text and number fields.
+
+            <img width="" src="img/react-context-1.png" />
+
+        - When you celebrate the option in the dropdown whole number decimal the number state changes to decimal causing the value of the field to change.
+
+            <img width="" src="img/react-context-2.png" />
+    - **Recoil**
+        - The solution to this would be to use `recoil` and keep the states defined as a component outside of React.
+
+            <img width="" src="img/recoil-1.png" />
 </summary>
 </details>
 
